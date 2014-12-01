@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-hola pepe holaaaaa
-=======
-
 hola pepe:wq
 
 aaaaa
->>>>>>> 2fc524997ba8f273b903068215fb1ac16b03051e
+hola pepe:wq sdjaksdhsjadhasd
+sdaksjdkas
+asdjaskdjsad
+asdkjaskdj
